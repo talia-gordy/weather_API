@@ -30,7 +30,7 @@ Here is a sample, of what your workspace should look like before inputed values:
 
 ## 👀 My example 
 
-### For my example, I did the cordinates for Los Angeles, the data I retrieved is a snippet of the data I got from today 2/9/2026 (5 day / 3 hour forecast):
+### - For my example, I did the cordinates for Los Angeles, the data I retrieved is a snippet of the data I got from today 2/9/2026 (5 day / 3 hour forecast):
 
 ```
 {
